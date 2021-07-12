@@ -1,4 +1,4 @@
-
+{
     "name": "webakula/scout-elasticsearch-driver",
     "type": "library",
     "description": "The Elasticsearch Driver for Laravel Scout",
